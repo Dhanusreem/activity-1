@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+  <title>uploading an image</title>
+</head>
+<body></body>
+  <u><em> my favorite food:</em></u>
+    <li>biryani</li>
+    <li> idli</li>
+    <li>set dosa</li>
+    <li>shavge</li>
+  </ul>
+  
+  <ol><strong> <u>To do</u></strong>
+    <li>complete the WT actiities</li>
+    <li>FPC test</li>
+  </ol>
+  <ul><um><u>my dream places</u></um>
+    <li>San Francisco</li>
+    <li>Paris </li>
+    <li>Bali</li>
+    <li>Maldives</li>
+    <li>Namsan tower</li>
+    <li>Madikkery</li>
+    <li>Mysore</li>
+    <li>Jaipur palace</li>
+  </ul>
+  
+
+  <ol type="1"> <u>My favorite movies</u>
+    <li>Om Shanti Om</li>
+    <li>RRR</li>
+    <li>Jurassic World</li>
+    <li>Zindagi Na Milege Doobara</li>
+    <li>Night at the Museum</li>
+  </ol>
+</html>
