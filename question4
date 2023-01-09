@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+  <title>uploading an image</title>
+</head>
+<body>
+  <h2> <strong>Union Territories of India</strong></h2>
+  <ul>
+    <li>Ladakh</li>
+      <li>Jammu & Kashmir</li>
+      <li>Puducherry</li>
+      <li>Lakshadweep</li>
+      <li>Delhi</li>
+       <li>Chandigarh</li>
+        <li>Daman & Diu</li>
+          <li>Andaman and Nicobar Islands)</li>
+  </ul>
+  </body>
+</html>
